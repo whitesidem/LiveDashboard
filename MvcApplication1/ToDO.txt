@@ -1,0 +1,4 @@
+﻿* use google charts
+* use signal r
+* feed signal r via active extnsions
+
